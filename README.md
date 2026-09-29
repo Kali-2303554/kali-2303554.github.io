@@ -4,12 +4,12 @@
 <head>
 
 
-	<title>Home</title>
+	<title>Portfolio</title>
 
 	<div>
-	<meta name ="Creater" content = "">
-	<meta name = "Content" content = "Book review website">
-	<meta name = "Keywords" content ="books, rating, reviews">
+	<meta name ="Creater" content = "Kali">
+	<meta name = "Content" content = "Portfolio">
+	<meta name = "Keywords" content ="Portfolio">
 	</div>
 	
 </head>
@@ -18,12 +18,14 @@
 	
 	<main>
 	
-	<h3>Home</h3>
+	<h1>Portfolio</h1>
 
 	
-
-
-	
+	<h2>Blindside</h2>
+	<p>Blindside was my DES315 project. My main area was 
+	<iframe width="420" height="315"
+	src="https://www.youtube.com/watch?v=zRCwHdYEWJk">
+	</iframe>
 	
 	</main>
 	
