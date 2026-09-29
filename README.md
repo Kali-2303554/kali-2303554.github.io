@@ -10,6 +10,8 @@
 	<meta name = "Content" content = "Portfolio">
 	<meta name = "Keywords" content ="Portfolio">
 	</div>
+
+	<link rel="stylesheet" href="style.css" type ="text/css" >
 	
 </head>
 
@@ -27,9 +29,9 @@
 
 	<p>I was also the main programmer involved in implementing the menus and subsequent logic.</p>
 
-	<img src="BlindsideMenu.gif" alt="BlindsideMenu" style="width:474px;height:245px;">
-	<img src="BlindsideMenuExtras.gif" alt="BlindsideMenuExtras" style="width:474px;height:245px;">
-	<img src="BlindsideMenuMem.gif" alt="BlindsideMenuMem" style="width:474px;height:245px;">
+	<img src="BlindsideMenu.gif" alt="BlindsideMenu" style="width:355px;height:183px;">
+	<img src="BlindsideMenuExtras.gif" alt="BlindsideMenuExtras" style="width:355px;height:183px;">
+	<img src="BlindsideMenuMem.gif" alt="BlindsideMenuMem" style="width:355px;height:183px;">
 			
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/zRCwHdYEWJk?si=ImFDgYDX3LyM69mH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	
