@@ -30,8 +30,12 @@
 
 	<p>I was also the main programmer involved in implementing the menus and subsequent logic.</p>
 
+	<li>The background for the main menu changes as you hover the mouse over.</li><br>
 	<img src="BlindsideMenu.gif" alt="BlindsideMenu" style="width:355px;height:183px;">
+	<li>The extras menu only unlocked when the game is beaten.</li>
+	<li>Concept art menu (shortened for conciseness) shows the art we made for the project over time.</li><br>
 	<img src="BlindsideMenuExtras.gif" alt="BlindsideMenuExtras" style="width:355px;height:183px;">
+	<li>You can collect memories in the game and in the extras menu you can see all you managed to get.</li><br>
 	<img src="BlindsideMenuMem.gif" alt="BlindsideMenuMem" style="width:355px;height:183px;">
 			
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/zRCwHdYEWJk?si=ImFDgYDX3LyM69mH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
