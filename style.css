@@ -183,5 +183,5 @@ https://www.w3schools.com/howto/howto_css_responsive_iframes.asp
   bottom: 0;
   right: 0;
   width: 100%;
-  height: 100%;
+  height: 100%; max-width:560px;
 }
