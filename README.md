@@ -22,7 +22,8 @@
 	<h1>Portfolio</h1>
 
 	
-	<a link href="https://midnight-studioss.itch.io/blindside"><h2>Blindside</h2> </a>
+	<h2>Blindside</h2>
+	<a link href="https://midnight-studioss.itch.io/blindside">itch.io</a>
 	<p>Blindside was my DES315 project. My main area was interactions between the players and objects. This was the focus of the second puzzle room that required the players to move boulders and punish them if they failed.</p>
 
 	<img src="BlindsideRockPush.gif" alt="BlindsideRockPush" style="width:330px;height:186px;">
