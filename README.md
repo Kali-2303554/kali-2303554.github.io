@@ -23,9 +23,7 @@
 	
 	<h2>Blindside</h2>
 	<p>Blindside was my DES315 project. My main area was 
-	<iframe width="420" height="315"
-	src="https://www.youtube.com/watch?v=zRCwHdYEWJk">
-	</iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/zRCwHdYEWJk?si=ImFDgYDX3LyM69mH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	
 	</main>
 	
