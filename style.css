@@ -147,7 +147,7 @@ main a:hover {
 	}
 	
 h1,h2 {
-	color:#F75945; font-size:1.5em;
+	color:#F75945; font-size:1.5em; background-color:#c3c3c3;
 }
 
 p, h3, tr {
