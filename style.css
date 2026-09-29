@@ -112,7 +112,7 @@ nav {
 main a {
 	float:left;
 	display:block;
-	background-color:#c3c3c3;
+	background-color:#cd9fff;
 	color:#F75945;
 	text-align:center;
 	padding: 4px 10px;
@@ -147,7 +147,7 @@ main a:hover {
 	}
 	
 h1,h2 {
-	color:#F75945; font-size:1.5em; background-color:#c3c3c3;
+	color:#F75945; font-size:1.5em; background-color:#cd9fff;
 }
 
 p, h3, tr {
