@@ -37,8 +37,10 @@
 	<img src="BlindsideMenuExtras.gif" alt="BlindsideMenuExtras" style="width:355px;height:183px;">
 	<li>You can collect memories in the game and in the extras menu you can see all you managed to get.</li><br>
 	<img src="BlindsideMenuMem.gif" alt="BlindsideMenuMem" style="width:355px;height:183px;">
-			
+		<br>
+	<div class="container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/zRCwHdYEWJk?si=ImFDgYDX3LyM69mH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
 	
 	<h2>Zen Garden</h2>
 	<p>This was a personal project I did over summer 2024. The core gameplay loop is planting seeds, watering/fertilising plants to get coins and then planting more seeds. Plants will randomly generate coins as they grow and will also randomly need water (controlled by a timer so it won't need water constantly. Then once the plant was been watered enough it will grow into the next stage.</p>
